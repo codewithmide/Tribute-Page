@@ -3,7 +3,7 @@
 
 ## User Stories:
 
-- Your tribute page should have a main element with a corresponding id of main, which contains all other elements
+- The tribute page should have a main element with a corresponding id of main, which contains all other elements
 - You should see an element with an id of title, which contains a string (i.e. text), that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug")
 - You should see either a figure or a div element with an id of img-div
 - Within the #img-div element, you should see an img element with a corresponding id="image"
